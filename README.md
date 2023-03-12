@@ -5,15 +5,15 @@
 # SDEV220Final_Project
 This repository is the Final Project for SDEV220 Group 3 
 
-Gabe Earl -
-Kyle Shumate -
+Gabe Earl
+Kyle Shumate
 Angel Vaquera
 
-Software Development 220 -
-Module 8 -
+Software Development 220
+Module 8
 Final Project
 
-document drafted on: 5 March 2023 -
+document drafted on: 5 March 2023
 amended on: 6 March 2023
 
 
@@ -71,24 +71,29 @@ Kyle - kshumate@ivytech.edu
 
 # Products to Come (investors welcome):
 
-Flux Capacitor -
-Phaser -
-T-1000 -
-Proton Pack -
-That supercollider that was supposed to be bigger than CERN's that Ronald Reagan wasted billions on and then never built. -
-PIPBOY -
-HAL 9000 (quirks intact) -
-Quantum Computer that only lets you use Minitel -
-Axolotl Tank and Spice Melange -
-The android from "Weird Science" -
-Lightsaber -
-Ludovico technique -
-Voight-Kampff test -
-Cosmic Treadmill -
-amnesia flash pen thing -
-Mother Box -
-Robby the Robot and H.E.L.P.R. -
-the world's first electric car -
-the world's first microchip -
-singularity event -
+Flux Capacitor
+Phaser
+T-1000
+Proton Pack
+That supercollider that was supposed to be bigger than CERN's that Ronald Reagan wasted billions on and then never built.
+PIPBOY
+HAL 9000 (quirks intact)
+quantum computer that only lets you use Minitel
+Axolotl Tank and Spice Melange
+The android from "Weird Science"
+lightsaber
+Ludovico technique
+Voight-Kampff test
+cosmic treadmill
+amnesia flash pen thing
+Mother Box
+Robby the Robot and H.E.L.P.R.
+the world's first electric car
+the world's first microchip
+singularity event
 Voltron
+
+
+
+
+

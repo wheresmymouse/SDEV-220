@@ -13,10 +13,8 @@ def get_weather(city: str):
     api_key = "8b9d4011d9dbf283bab6b60609ca631c"
 
     # Send the request to the OpenWeatherMap API and get the response
-    url = f"https://api.openweathermap.org/data/2.5/weather?q={city}&appid={api_key}&units=imperial"
+    url = f"https://api.openweathermap.org/data/2.5/weather?q={city}&appid={api_key}&units=metric"
     response = requests.get(url)
-
-    
 
     # Parse the JSON response and get the relevant weather information
     weather_info = json.loads(response.text)
@@ -29,11 +27,10 @@ def get_weather(city: str):
     weather_dict = {
         "city": city,
         "temperature": temp,
-        "temperatureC": tempC,
         "feels_like": feels_like,
         "humidity": humidity,
         "description": description
-        }
+    }
 
     return weather_dict
  #hello
